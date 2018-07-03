@@ -2,7 +2,7 @@
 
 /**
  * binary_tree_uncle - finds the uncle of a node
- * @tree: the input root address
+ * @node: node used to find the uncle
  * Return: returns the uncle else NULL
  */
 binary_tree_t *binary_tree_uncle(binary_tree_t *node)
