@@ -35,9 +35,7 @@ binary_tree_t *binary_trees_ancestor(const binary_tree_t *first, const binary_tr
 	if (f_holder == NULL || s_holder == NULL)
 		return (NULL);
         f = binary_tree_depth(f_holder);
-	printf("%lu \n", f);
 	s = binary_tree_depth(s_holder);
-	printf("%lu \n", s);
 	while (f > s)
 	{
 		f_holder = f_holder->parent;
