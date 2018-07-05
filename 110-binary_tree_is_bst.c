@@ -1,7 +1,7 @@
 #include "binary_trees.h"
 
 /**
- * binary_tree_is_full - checks if a binary tree is full
+ * is_bst - checks if a binary tree is BST
  * @tree: the input root address
  * @min: minimum value of int
  * @max: maximum value of int
@@ -20,7 +20,7 @@ int is_bst(const binary_tree_t *tree, int min, int max)
 
 
 /**
- * binary_tree_is_full - checks if a binary tree is full
+ * binary_tree_is_bst - checks if a binary tree is BST
  * @tree: the input root address
  * Return: 1 if true 0 if false
  */
