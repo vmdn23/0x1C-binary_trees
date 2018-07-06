@@ -33,6 +33,15 @@ File|Task
 16-binary_tree_is_perfect.c | Checks if a binary tree is perfect
 17-binary_tree_sibling.c | Finds the sibling of a node
 18-binary_tree_uncle.c | Finds the uncle of a node
+100-binary_trees_ancestor.c | Finds the lowest common ancestor of two nodes
+101-binary_tree_levelorder.c | Goes through a binary tree using level-order traversal
+102-binary_tree_is_complete.c | Checks if a binary tree is complete
+103-binary_tree_rotate_left.c | Performs a left-rotation on a binary tree
+104-binary_tree_rotate_right.c | Performs a right-rotation on a binary tree
+110-binary_tree_is_bst.c | Checks if a binary tree is a valid Binary Search Tree
+111-bst_insert.c, 0-binary_tree_node.c | Inserts a value in a Binary Search Tree
+112-array_to_bst.c | Builds a Binary Search Tree from an array
+113-bst_search.c | Searches for a value in a Binary Search Tree
 binary_tree_print.c | Prints a binary tree
 binary_trees.h | Header file for binary_tree_print.c
 main/ | main files
